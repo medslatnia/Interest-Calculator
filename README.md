@@ -10,7 +10,8 @@ To find 'main.dart' code: lib>main.dart
 
 
 # Landing Page
-<img src="[https://github.com/favicon.ico](https://github.com/medslatnia/Interest-Calculator/assets/113144036/3f8399cb-4198-49aa-806d-442a1d66fa0d)" width="48">
+<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/medslatnia/Interest-Calculator/assets/113144036/3f8399cb-4198-49aa-806d-442a1d66fa0d)" width="150" height="280">
+
 ![landing page]( {width=100px})
 ![testing](https://github.com/medslatnia/Interest-Calculator/assets/113144036/968b036d-6688-4520-b427-e3383e8f09ef | width=100)
 
