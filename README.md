@@ -1,16 +1,17 @@
-# si_calculator_app
+# Interest Calculator
+This is a mobile app calculator that helps you find out your investesment worth withing chosen amout on years.
 
-A new Flutter project.
+To find 'main.dart' code: lib>main.dart
 
-## Getting Started
+# Technologies
+* Flutter
+* Android Studio
+* Dart
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Landing Page
+![landing page](https://github.com/medslatnia/Interest-Calculator/assets/113144036/3f8399cb-4198-49aa-806d-442a1d66fa0d)
+![testing](https://github.com/medslatnia/Interest-Calculator/assets/113144036/968b036d-6688-4520-b427-e3383e8f09ef)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Errors Handler
+![errors](https://github.com/medslatnia/Interest-Calculator/assets/113144036/15b4be90-45e2-4edd-8671-cd542d519d6a)
