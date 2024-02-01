@@ -10,9 +10,11 @@ To find 'main.dart' code: lib>main.dart
 
 
 # Landing Page
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/medslatnia/Interest-Calculator/assets/113144036/3f8399cb-4198-49aa-806d-442a1d66fa0d)" width="150">
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/medslatnia/Interest-Calculator/assets/113144036/968b036d-6688-4520-b427-e3383e8f09ef)" width="150" height="280">
+![landing page](https://github.com/medslatnia/Interest-Calculator/assets/113144036/3c23af3b-7562-4f9c-9e48-602df9bc9b03)
+![testing](https://github.com/medslatnia/Interest-Calculator/assets/113144036/3b0cf19b-2628-42a2-ae8d-1fe2b823ce34)
+
 
 
 #Errors Handler
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/medslatnia/Interest-Calculator/assets/113144036/15b4be90-45e2-4edd-8671-cd542d519d6a)" width="150" height="280">
+![errors](https://github.com/medslatnia/Interest-Calculator/assets/113144036/1c65c533-7355-40e7-960e-0920bf733ba1)
+
