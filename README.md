@@ -1,5 +1,5 @@
 # Interest Calculator
-This is a mobile app calculator that helps you find out your investesment worth withing chosen amout on years.
+This is a mobile app calculator that helps you find out your investesment worth withing chosen amout of years.
 
 To find 'main.dart' code: lib>main.dart
 
